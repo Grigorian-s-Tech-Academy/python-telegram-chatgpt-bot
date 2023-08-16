@@ -20,7 +20,7 @@ This project integrates ChatGPT with Telegram to create a powerful AI chatbot. U
 
 2. **Navigate to the project directory**:
     ```
-    cd telegram-chatgpt-bot
+    cd python-telegram-chatgpt-bot
     ```
 
 3. **Install required dependencies**:
