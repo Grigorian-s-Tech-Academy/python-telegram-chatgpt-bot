@@ -6,6 +6,8 @@ By Grigorian's Tech Academy
 ## **Description**:
 This project integrates ChatGPT with Telegram to create a powerful AI chatbot. Using Python, you can seamlessly communicate with the ChatGPT model and obtain intelligent, context-aware responses to your queries on Telegram.
 
+[View tutorial](https://youtu.be/JBlc7qQUHuw)
+
 ## **Pre-requisites**:
 1. Python 3.x
 2. An OpenAI account to get the API key
